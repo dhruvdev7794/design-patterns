@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3cad112-4718-4f93-880d-e07a82576a34" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/Duck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/DuckSimulator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/FlyBehavior.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/FlyNoWay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/FlyWithWings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/MallardDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/ModelDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/MuteQuack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/Quack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/QuackBehavior.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/RubberDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Design Patterns/strategy/Squeak.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/DuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/Squeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/src/strategy/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="17" selection-start-column="17" selection-end-column="17" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -265,12 +239,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528481634065</updated>
       <workItem from="1528481638794" duration="1714000" />
-      <workItem from="1528483385007" duration="69000" />
+      <workItem from="1528483385007" duration="186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1783000" />
+    <option name="totallyTimeSpent" value="1900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -462,8 +436,8 @@
     <entry file="file://$PROJECT_DIR$/src/strategy/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
